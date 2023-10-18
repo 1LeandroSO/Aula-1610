@@ -16,3 +16,6 @@ if l1 < (l2 + l3) and l2 < (l1 + l3) and l3 < (l1 + l2):
     print(f'\n{l1}, {l2} e {l3} formam triângulo! ')
 else:
     print(f'\n{l1}, {l2} e {l3} não formam triângulo.')
+
+
+
